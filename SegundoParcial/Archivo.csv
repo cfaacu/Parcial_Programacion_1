@@ -1,0 +1,8 @@
+ID,nombre,codigo,descripcion,paisDeFabricacion,valorFob,pesosEnKg,alto,ancho,profundidad,posicion Arancel
+1,Monitor,ESS4312,VeintePulgadas,EstadosUnidos,300.00,100.00,10.00,10.00,5.00,1
+2,Bicicleta,AXK3243,AltoRodado,China,120.00,58.00,35.00,65.00,10.00,3
+3,Estufa,XTS5423,CalientaMucho,Estonia,75.00,45.00,60.00,60.00,20.00,1
+4,FidgetSpinner,RPN6786,GiraComoLoco,Chilenoputo,5.00,0.50,5.00,5.00,5.00,2
+5,BalansaDigital,AST3212,PesaDrogas,Lituania,15.00,2.50,10.00,10.00,5.00,2
+6,Casco,LLP3428,NoTeMorisXd,Mexico,350.00,3.65,25.00,25.00,25.00,3
+7,Espejo,PST5472,ReflejaUnaBanda,EstadosUnidos,32.33,14.00,120.00,60.00,3.00,3
